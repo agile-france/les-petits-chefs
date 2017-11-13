@@ -110,3 +110,12 @@ On recommence avec une nouvelle itération, jusqu'à ce que l'une des conditions
 - Les Équipiers gagnent dès le dernier Petit Chef expulsé, ou si aucun des Petits Chefs n'ouvre les yeux lors du COPIL.
 - Les Petits Chefs gagnent dès que l'avant-dernier Équipier est expulsé.
 - Le Binôme gagne s'ils sont les seuls membres du projet.
+
+
+# Licence
+
+Ces instructions sont fournies sous une licence CC-BY-NC-SA « AgileFrance 2017 d'après les Loups-Garous de Thiercelieu », c'est-à-dire que vous avez le droit de les diffuser et de les modifier sous quelque forme que ce soit, dès lors que :
+
+1. Vous en attribuez la source à « AgileFrance 2017 d'après les Loups-Garous de Thiercelieu ».
+2. Vous ne monétisez pas cette diffusion.
+3. Vous redistribuez vos améliorations à des conditions équivalentes à celles-ci.
