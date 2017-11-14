@@ -32,10 +32,9 @@ On fait 3 ou 4 **projets** (de 15 à 20 joueurs) et on alterne des **itérations
 
 Chaque joueur recevra une carte face cachée, qui lui indique son personnage et qui devra rester secrète.
 
+![Exemple de carte](illustrations/Carte.jpg)
 
 ### Personnages
-
-![Exemple de carte](illustrations/Carte.jpg)
 
 #### Petits chefs
 
@@ -80,8 +79,6 @@ Lors du premier COPIL, il ou elle désigne 2 joueurs qui seront Binôme l’un d
 1. Désigner ou tirer au sort un **Consultant**.
 2. Le Consultant **distribue** à chacun·e des joueurs 1 carte personnage face cachée, et 1 carte de vote.
 
-![Déroulé](illustrations/Déroulé.jpg)
-
 #### Première itération
 
 1. C'est le COPIL, le Consultant demande à tous les joueurs de **fermer les yeux**.
@@ -91,6 +88,8 @@ Lors du premier COPIL, il ou elle désigne 2 joueurs qui seront Binôme l’un d
 
 
 #### Chaque itération se déroule de la manière suivante
+
+![Déroulé](illustrations/Déroulé.jpg)
 
 1. Le Consultant **appelle le Coach Agile**, qui se réveille et désigne un joueur à sonder. Le Consultant montre à le Coach Agile la carte du joueur, ou lui mime son identité cachée. Le Coach Agile ferme les yeux.
 2. Le Consultant **appelle les Petits Chefs**. Eux (et eux seulement) lèvent la tête, ouvrent les yeux, se concertent silencieusement et désignent une victime. Ils peuvent éventuellement ne pas ouvrir les yeux et ne pas désigner de victime pour réduire le risque de se faire espionner. Si un des Petits Chefs est désigné comme victime par les autres, tant pis pour lui, il quitte le projet !
