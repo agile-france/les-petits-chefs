@@ -3,9 +3,9 @@
 Une adaptation du jeu des [Loups-Garous de Thiercelieu](https://fr.wikipedia.org/wiki/Les_Loups-garous_de_Thiercelieux) faite par l'équipe d'organisation de la conférence [AgileFrance 2017](http://2017.conf.agile-france.org), sur l'idée et l'impulsion de Frédéric André, jouée lors du dîner de la conférence.
 
 
-## Si vous connaissez les Petits Chefs de Thiercelieu
+## Si vous connaissez les Loups-Garous de Thiercelieu
 
-Les règles sont celles des Petits Chefs de Thiercelieu. Seul le vocabulaire est modifié, de la manière définie ci-dessous.
+Les règles sont celles des Loups-Garous de Thiercelieu. Seul le vocabulaire est modifié, de la manière définie ci-dessous.
 
 | Loups-Garous  | Petits chefs                         |
 |---------------|--------------------------------------|
