@@ -7,19 +7,20 @@ Une adaptation du jeu des [Loups-Garous de Thiercelieu](https://fr.wikipedia.org
 
 Les règles sont celles des Petits Chefs de Thiercelieu. Seul le vocabulaire est modifié, de la manière définie ci-dessous.
 
-| Petits Chefs  | Petits chefs |
--------------------------------
-| Village       | Projet |
-| Nuit          | COPIL |
-| Petits Chefs  | Petits chefs |
-| Maître de jeu | Consultant |
-| Équipiers    | Équipier |
-| Voyante       | Coach Agile |
-| Chasseur      | Manager |
-| Capitaine     | Directrice |
-| Sorcière      | Product Manager |
-| Petite fille  | Secrétaire |
-| Cupidon       | Software Craftsmanship Evangelist |
+| Loups-Garous  | Petits chefs                         |
+|---------------|--------------------------------------|
+| Village       | Projet                               |
+| Nuit          | COPIL                                |
+| Tour de jeu   | Itération                            |
+| Petits Chefs  | Petits chefs                         |
+| Maître de jeu | Consultant                           |
+| Villageois    | Équipier                             |
+| Voyante       | Coach Agile                          |
+| Chasseur      | Manager                              |
+| Capitaine     | Directrice                           |
+| Sorcière      | Product Manager                      |
+| Petite fille  | Secrétaire                           |
+| Cupidon       | Software Craftsmanship Evangelist    |
 | Amoureux      | Binômes _(font du pair programming)_ |
 
 ## Règles
