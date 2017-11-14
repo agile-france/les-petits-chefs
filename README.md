@@ -23,6 +23,7 @@ Les règles sont celles des Loups-Garous de Thiercelieu. Seul le vocabulaire est
 | Cupidon       | Software Craftsmanship Evangelist    |
 | Amoureux      | Binômes _(font du pair programming)_ |
 
+
 ## Règles
 
 ### Mise en place
@@ -33,6 +34,8 @@ Chaque joueur recevra une carte face cachée, qui lui indique son personnage et 
 
 
 ### Personnages
+
+![Exemple de carte](illustrations/Carte.jpg)
 
 #### Petits chefs
 
@@ -76,6 +79,8 @@ Lors du premier COPIL, il ou elle désigne 2 joueurs qui seront Binôme l’un d
 
 1. Désigner ou tirer au sort un **Consultant**.
 2. Le Consultant **distribue** à chacun·e des joueurs 1 carte personnage face cachée, et 1 carte de vote.
+
+![Déroulé](illustrations/Déroulé.jpg)
 
 #### Première itération
 
