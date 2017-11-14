@@ -91,7 +91,7 @@ Lors du premier COPIL, il ou elle désigne 2 joueurs qui seront Binôme l’un d
 
 ![Déroulé](illustrations/Déroulé.jpg)
 
-1. Le Consultant **appelle le Coach Agile**, qui se réveille et désigne un joueur à sonder. Le Consultant montre à le Coach Agile la carte du joueur, ou lui mime son identité cachée. Le Coach Agile ferme les yeux.
+1. Le Consultant **appelle le Coach Agile**, qui se réveille et désigne un joueur à sonder. Le Consultant montre au Coach Agile la carte du joueur, ou lui mime son identité cachée. Le Coach Agile ferme les yeux.
 2. Le Consultant **appelle les Petits Chefs**. Eux (et eux seulement) lèvent la tête, ouvrent les yeux, se concertent silencieusement et désignent une victime. Ils peuvent éventuellement ne pas ouvrir les yeux et ne pas désigner de victime pour réduire le risque de se faire espionner. Si un des Petits Chefs est désigné comme victime par les autres, tant pis pour lui, il quitte le projet !
   - Si aucun Petit Chef n'ouvre les yeux, ils perdent toute crédibilité, et les Équipiers ont donc gagné.
   - Durant ce tour, le **Secrétaire peut espionner** les Petits Chefs (en clignant des yeux, regardant entre ses doigts…), elle n'y est pas obligée, si elle se fait prendre elle est expulsée, à la place de la victime éventellement choisie.
