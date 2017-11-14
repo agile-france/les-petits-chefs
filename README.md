@@ -117,5 +117,6 @@ On recommence avec une nouvelle itération, jusqu'à ce que l'une des conditions
 Ces instructions sont fournies sous une licence [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) « AgileFrance 2017 d'après les Loups-Garous de Thiercelieu », c'est-à-dire que vous avez le droit de les diffuser et de les modifier sous quelque forme que ce soit, dès lors que :
 
 1. Vous en attribuez la source à « AgileFrance 2017 d'après les Loups-Garous de Thiercelieu ».
-2. Vous ne monétisez pas cette diffusion.
-3. Vous redistribuez vos améliorations à des conditions équivalentes à celles-ci.
+2. Si la diffusion se fait sur un support électronique, vous faites un lien vers ce dépôt.
+3. Vous ne monétisez pas cette diffusion.
+4. Vous redistribuez vos améliorations à des conditions équivalentes à celles-ci.
