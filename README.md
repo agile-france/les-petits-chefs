@@ -1,6 +1,6 @@
 # Les petits chefs
 
-Une adaptation du jeu des Petits Chefs de Thiercelieu faite par l'équipe d'organisation de la conférence AgileFrance 2017, sur l'idée et l'impulsion de Frédéric André.
+Une adaptation du jeu des [Loups-Garous de Thiercelieu](https://fr.wikipedia.org/wiki/Les_Loups-garous_de_Thiercelieux) faite par l'équipe d'organisation de la conférence [AgileFrance 2017](http://2017.conf.agile-france.org), sur l'idée et l'impulsion de Frédéric André.
 
 
 ## Si vous connaissez les Petits Chefs de Thiercelieu
@@ -114,7 +114,7 @@ On recommence avec une nouvelle itération, jusqu'à ce que l'une des conditions
 
 # Licence
 
-Ces instructions sont fournies sous une licence CC-BY-NC-SA « AgileFrance 2017 d'après les Loups-Garous de Thiercelieu », c'est-à-dire que vous avez le droit de les diffuser et de les modifier sous quelque forme que ce soit, dès lors que :
+Ces instructions sont fournies sous une licence [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) « AgileFrance 2017 d'après les Loups-Garous de Thiercelieu », c'est-à-dire que vous avez le droit de les diffuser et de les modifier sous quelque forme que ce soit, dès lors que :
 
 1. Vous en attribuez la source à « AgileFrance 2017 d'après les Loups-Garous de Thiercelieu ».
 2. Vous ne monétisez pas cette diffusion.
