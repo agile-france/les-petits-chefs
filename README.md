@@ -12,7 +12,7 @@ Les règles sont celles des Loups-Garous de Thiercelieu. Seul le vocabulaire est
 | Village       | Projet                               |
 | Nuit          | COPIL                                |
 | Tour de jeu   | Itération                            |
-| Petits Chefs  | Petits chefs                         |
+| Loups garous  | Petits chefs                         |
 | Maître de jeu | Consultant                           |
 | Villageois    | Équipier                             |
 | Voyante       | Coach Agile                          |
