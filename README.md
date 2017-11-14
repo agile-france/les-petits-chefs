@@ -82,8 +82,8 @@ Lors du premier COPIL, il ou elle désigne 2 joueurs qui seront Binôme l’un d
 #### Première itération
 
 1. C'est le COPIL, le Consultant demande à tous les joueurs de **fermer les yeux**.
-2. **Pas encore traduit** _(Premier tour seulement)_ Le Consultant appelle le Voleur, qui se réveille et regarde discrètement les 2 cartes cachées du milieu, puis change éventuellement de personnage. Le Voleur ferme les yeux.
-3. _(Premier tour seulement)_ Le Consultant **appelle le Software Craftsmanship Evangelist**, qui se réveille et désigne 2 joueurs (dont éventuellement lui-même). Le Consultant fait le tour de la table et touche discrètement le dos des 2 Binômes. Le Software Craftsmanship Evangelist ferme les yeux.
+2. **Pas encore traduit** _(Premier tour seulement)_ Le Consultant appelle le Voleur, qui se réveille et regarde discrètement les 2 cartes cachées du milieu, puis change éventuellement de personnage. Le Voleur ferme les yeux.
+3. _(Premier tour seulement)_ Le Consultant **appelle le Software Craftsmanship Evangelist**, qui se réveille et désigne 2 joueurs (dont éventuellement lui-même). Le Consultant fait le tour de la table et touche discrètement le dos des 2 Binômes. Le Software Craftsmanship Evangelist ferme les yeux.
 4. _(Premier tour seulement)_ Le Consultant **appelle les Binômes**, qui se réveillent, se reconnaissent, et referment les yeux.
 
 
@@ -106,7 +106,7 @@ Lors du premier COPIL, il ou elle désigne 2 joueurs qui seront Binôme l’un d
   - Les Binômes doivent se protéger l'un l'autre.
   - En cas d'égalité, le vote de la **Directrice** désigne la victime. En son absence, les joueurs votent à nouveau (y compris les joueurs en cause) pour départager les ex-æquo.
 6. Le joueur désigné par la majorité des voix est **expulsé**, il révèle sa carte et ne pourra plus communiquer avec les autres joueurs sous quelque forme que se soit. En cas d'égalité, les joueurs revotent pour départager les ex-æquo.
-7. C'est le COPIL, tous les joueurs encore membres du Projet referment les yeux. (Les autres peuvent regarder mais se taisent.)
+7. C'est le COPIL, tous les joueurs encore membres du Projet referment les yeux. (Les autres peuvent regarder mais se taisent.)
 
 On recommence avec une nouvelle itération, jusqu'à ce que l'une des conditions de victoire soit remplie.
 
