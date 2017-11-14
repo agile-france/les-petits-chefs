@@ -1,6 +1,6 @@
 # Les petits chefs
 
-Une adaptation du jeu des [Loups-Garous de Thiercelieu](https://fr.wikipedia.org/wiki/Les_Loups-garous_de_Thiercelieux) faite par l'équipe d'organisation de la conférence [AgileFrance 2017](http://2017.conf.agile-france.org), sur l'idée et l'impulsion de Frédéric André.
+Une adaptation du jeu des [Loups-Garous de Thiercelieu](https://fr.wikipedia.org/wiki/Les_Loups-garous_de_Thiercelieux) faite par l'équipe d'organisation de la conférence [AgileFrance 2017](http://2017.conf.agile-france.org), sur l'idée et l'impulsion de Frédéric André, jouée lors du dîner de la conférence.
 
 
 ## Si vous connaissez les Petits Chefs de Thiercelieu
