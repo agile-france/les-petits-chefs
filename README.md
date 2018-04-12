@@ -16,7 +16,7 @@ Les règles sont celles des Loups-Garous de Thiercelieu. Seul le vocabulaire est
 | Maître de jeu | Consultant                           |
 | Villageois    | Équipier                             |
 | Voyante       | Coach Agile                          |
-| Chasseur      | Manager                              |
+| Chasseur      | Manager (Reviewer) _(fait de la revue de code)_ |
 | Capitaine     | Directrice                           |
 | Sorcière      | Product Manager                      |
 | Petite fille  | Secrétaire                           |
@@ -48,9 +48,9 @@ Opposants à l’agilité, ils ou elles se rassemblent en COPIL pour décider en
 
 Lors de chaque COPIL, la ou le Coach Agile fait un test de personnalité d’un joueur de son choix et ainsi découvre sa véritable nature, la ou le Coach Agile doit aider les équipiers, sans être découvert·e par les Petits chefs.
 
-#### Reviewer
+#### Manager (Reviewer)
 
-Le Reviewer, s’il se fait congédier par les Petits chefs ou renvoyer de l’équipe par les joueurs, a le pouvoir de répliquer en lançant la commande (magique ?) « git blame » sur le ou la joueur·se de son choix avec pour conséquence de le ou la faire sortir immédiatement de l’équipe.
+Le Manager (Reviewer), s’il se fait congédier par les Petits chefs ou renvoyer de l’équipe par les joueurs, a le pouvoir de répliquer en lançant la commande (magique ?) « git blame » sur le ou la joueur·se de son choix avec pour conséquence de le ou la faire sortir immédiatement de l’équipe.
 
 #### Directeur / Directrice
 
